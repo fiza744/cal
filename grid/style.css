@@ -1,0 +1,86 @@
+.container{
+    height: 500px;
+    width: 330px;
+    background-color: black;
+}
+#input{
+    width: 300px;
+    height:60px;
+    border: 12px  solid #333;
+}
+#a{
+    width: 100px;
+    height: 30px;
+    margin-left: 10px;
+}
+#b{
+    width: 100px;
+    height: 30px;
+}
+#c{
+    width: 100px;
+    height: 30px;
+}
+#d{
+    width: 100px;
+    height: 30px;
+    margin-left: 10px;
+}
+#e{
+    width: 100px;
+    height: 30px;
+}
+#f{
+    width: 100px;
+    height: 30px;
+}
+#g{
+    width: 100px;
+    height: 30px;
+}
+#h{
+    width: 100px;
+    height: 30px;
+}
+#i{
+    width: 100px;
+    height: 30px;
+    margin-left: 10px;
+}
+#j{
+    width: 100px;
+    height: 30px;
+}
+#k{
+    width: 100px;
+    height: 30px;
+}
+#l{
+    width: 100px;
+    height: 30px;
+    margin-left: 10px;
+}
+#m{
+    width: 100px;
+    height: 30px;
+}
+#n{
+    width: 100px;
+    height: 30px;
+}
+#o{
+    width: 100px;
+    height: 30px;
+    margin-left: 10px;
+}
+#p{
+    width: 100px;
+    height: 30px;
+
+}
+#q{
+    width: 100px;
+    height: 30px;
+    
+}
+
